@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="DM.pas"/>
+    <File Path="DM.dfm"/>
+    <File Path="Editor.pas"/>
+    <File Path="Editor.dfm"/>
+    <File Path="Main.pas"/>
+    <File Path="Main.dfm"/>
+    <File Path="UnitGlavn.pas"/>
+    <File Path="UnitGlavn.dfm"/>
+    <File Path="Unit2.pas"/>
+    <File Path="Unit2.dfm"/>
+  </ProjectSortOrder>
+</BorlandProject>
